@@ -3,7 +3,7 @@
 A Spring Boot middleware service that simulates a common enterprise integration pattern: a gateway service sitting between a client-facing **channel** and a **backend** system, validating and transforming requests between the two.
 
 ![CI](https://github.com/ZhengLong9/channel-backend-gateway/actions/workflows/build.yml/badge.svg)
-![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=<sonar-project-key>&metric=alert_status)
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ZhengLong9_channel-backend-gateway&metric=alert_status)
 
 ## Overview
 
